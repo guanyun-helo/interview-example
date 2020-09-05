@@ -1,0 +1,23 @@
+{
+  "name": "interview-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanyun-helo/interview-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanyun-helo/interview-example/issues"
+  },
+  "homepage": "https://github.com/guanyun-helo/interview-example#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "xlsx": "^0.16.6"
+  }
+}
